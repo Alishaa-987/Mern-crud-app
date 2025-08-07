@@ -28,7 +28,11 @@ function User() {
                 <div className="row justify-content-center">
                     <div className="col-md-8">
                         <div className="card">
-                            <h2 className="text-center mb-4">User CRUD Page</h2>
+<h2 class="text-center mt-4 mb-5 fs-1 fw-bold text-secondary-emphasis border-bottom border-2 pb-2">
+   User CRUD Dashboard
+</h2>
+
+
                             <div className="d-flex justify-content-center mb-4">
                                 <Link to="/create" className="btn btn-primary w-25 ">
                                     Add +
