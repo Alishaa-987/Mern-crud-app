@@ -30,7 +30,7 @@ function User() {
                         <div className="card">
                             <h2 className="text-center mb-4">User CRUD Page</h2>
                             <div className="d-flex justify-content-center mb-4">
-                                <Link to="/create" className="btn btn-primary">
+                                <Link to="/create" className="btn btn-primary w-25 ">
                                     Add +
                                 </Link>
                             </div>
